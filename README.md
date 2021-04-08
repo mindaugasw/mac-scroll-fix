@@ -1,1 +1,1 @@
-# osx-scroll-fix
+# mac-scroll-fix
